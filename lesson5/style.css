@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+/*}
+.container{
+    display: flex;
+    flex-direction: row;
+    /*row, row-reverse, colum, colum-reverse */
+    /*justify-content: space-evenly;
+    /*flex-start, flex-end, center, 
+    space-between, space-around, spase-evenly */
+    /*align-items: center;
+    /*flex-start, flex-end, center, stretch */
+    /*flex-wrap: wrap-reverse;
+    /* wrap, wrap-rewerse, nowra*/
+    /*flex-wrap: wrap;
+    height: 1000px;
+    align-content: space-around;
+    /* stretch, flex-start, flex-end, centr
+    space-between, space- around*/
+/*
+.block{
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+.block1{
+    width: 300px;
+    /*height: 200px;*/
+    /*background-color: green;
+/*}
+.block2{
+    width: 150px;
+    /*height: 100px;*/
+   /* background-color: red;
+/*}
+.block3{
+    width: 200px;
+    /*height: 300px;*/
+    /*background-color: rebeccapurple;
+/*}
+.block4{
+    width: 200px;
+    /*height: 200px;*/
+    /*background-color: blue;
+/*}
+.block5{
+    width: 100px;
+    /*height: 150px;
+    background-color: aqua;*/
+}
+header{
+    text-align: center;
+    background-color: rgb(78, 104, 40) ;
+    color: wheat;
+    padding: 60px;
+    
+}
+nav{
+    background-color: black;
+    display: flex;
+
+}
+nav a{
+    color: white;
+    padding: 14px 20px;
+
+    flex: ;
+}
+main{
+    display: flex;
+}
+.cont1{
+    
+    flex: 30%;
+    border: 1px solid gray;
+    background-color: grey;
+
+}
+.cont2{
+    flex: 70%;
+    background-color: wheat;
+
+}

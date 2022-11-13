@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 30px;
+}
+.block{
+    border: 5px solid red;
+    width: 600px;
+    height: 1000px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.block div{
+    text-align: center;
+    font-size: 18px;
+    height: 50px;
+}
+
+.block1{
+    background-color: aqua;
+   
+    
+}
+
+.block2{
+    background-color: blue;
+    color: white;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 0;
+}
+
+.block3{
+    background-color: blueviolet;
+    color: white;
+    position: relative;
+    z-index: 2;
+   
+    
+}
